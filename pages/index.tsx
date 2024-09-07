@@ -282,7 +282,7 @@ export default function DynamicFieldsForm() {
           </a>
         </p>
         <p style={{ margin: 0 }}>
-          <a href="https://github.com/sen-Saptarshi" target="_blank" style={{ color: '#1890ff', textDecoration: 'none', marginRight: '8px' }}>Saptrishi</a>
+          <a href="https://github.com/sen-Saptarshi" target="_blank" style={{ color: '#1890ff', textDecoration: 'none', marginRight: '8px' }}>Saptarshi</a>
           <a  target="_blank" style={{ color: '#1890ff', textDecoration: 'none' }}>
             <FontAwesomeIcon icon={faDiscord} style={{ marginRight: '4px' }} /> @erenyeager203
           </a>
