@@ -8,5 +8,5 @@ Installs the dependencies
 
 ### `npm start`
 starts the development serer in http://localhost:5431
-You can visit and intercat with the app
+You can visit and interact with the app
 
