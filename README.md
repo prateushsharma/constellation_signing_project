@@ -1,6 +1,6 @@
 
 ## You should have stargazer wallet installed 
-# [download link][https://constellationnetwork.io/stargazer-wallet/]
+ [download link][https://constellationnetwork.io/stargazer-wallet/]
 
 ### `npm install`
 
