@@ -11,3 +11,4 @@ Installs the dependencies
 starts the development serer in http://localhost:5431
 You can visit and interact with the app
 
+![Alt text](page/display.jpeg)
